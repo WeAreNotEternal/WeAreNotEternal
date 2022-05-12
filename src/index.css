@@ -1,13 +1,65 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+    height: 1000px;
+    background: linear-gradient(to top left, powderblue, pink);}
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-size: larger;
+div{
+    display: block;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.heading{
+    height: 300px;
+    margin-top: 20px;
+}
+.logo{
+    height: 195;
+}
+.first{
+    white-space: nowrap;
+}
+.qwe{
+   display: inline-block;
+  padding-right:10px;
+}
+.firstoption{
+  display: inline-block;
+  margin-left: 100px;
+}
+.secondoption{
+  margin-top:10px;
+  margin-left: 100px;
+}
+.thirdoption{
+  margin-top:10px;
+  margin-left: 100px;
+}
+.secondtab{
+  margin-left:500px;
+   vertical-align: top ;
+  display: inline-block;
+}
+.firsttab{
+  display: inline-block;
+}
+.Menu{
+  margin-left: 15px;
+}
+.firstbutton{
+  margin-bottom:10px;
+}
+.secondbutton{
+  margin-bottom:10px;
+}
+.thirdbutton{
+    margin-bottom:10px;
+}
+.fourthbutton{
+      margin-bottom:10px;
+}
+.lenght{
+   margin-bottom:10px;
+}
+.butln{
+  margin-left: 15px;
+  margin-bottom:10px;
 }
